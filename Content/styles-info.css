@@ -19,6 +19,14 @@
 .display-inline-block {
   display: inline-block;
 }
+body {
+  background: url(images/main_bg.jpg) repeat-y top center;
+}
+.tab-main {
+  background-color: #ECD575;
+  border-radius: 10px;
+  padding: 10px;
+}
 .card {
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
